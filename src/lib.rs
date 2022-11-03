@@ -1,3 +1,7 @@
+#![feature(int_log)]
+mod htree;
+pub use htree::HTree;
+
 pub fn add(left: usize, right: usize) -> usize {
     left + right
 }
