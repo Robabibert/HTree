@@ -1,6 +1,6 @@
 [package]
 name = "htree"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 license = "MIT"
 description = "Crate provides the lines contained within a 2D H-Tree. See https://en.wikipedia.org/wiki/H_tree"
