@@ -1,4 +1,6 @@
 # Htree
+[![HTree Crate](https://img.shields.io/crates/v/htree.svg)](https://crates.io/crates/htree)
+
 
 Minimal crate for HTree fractals.
 
